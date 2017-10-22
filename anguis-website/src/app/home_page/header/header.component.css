@@ -1,7 +1,16 @@
 #photo{
     max-width: 1905px;
-    max-height: 343px; 
+    max-height: 343px;
     width: 100%;
     height: auto;
     border: 3px solid black;
 }
+.card{
+  width: auto;
+}
+
+.box {
+  float:right;
+  width: auto;
+}
+
